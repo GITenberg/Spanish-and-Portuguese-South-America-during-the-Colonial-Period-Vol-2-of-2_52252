@@ -1,0 +1,25 @@
+_repo: Spanish-and-Portuguese-South-America-during-the-Colonial-Period-Vol-2-of-2_52252
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watson, Robert Grant
+    deathdate: 1892
+    gutenberg_agent_id: '46186'
+    url: http://www.gutenberg.org/2009/agents/46186
+description: ''
+gutenberg_issued: '2016-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration'
+- !lcsh 'South America -- History -- To 1806'
+- !lcc 'F2201'
+- GITenberg
+title: Spanish and Portuguese South America during the Colonial Period; Vol. 2 of
+  2
+url: http://www.gutenberg.org/ebooks/52252
